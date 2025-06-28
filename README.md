@@ -7,7 +7,10 @@
 
 ## 🚀 Demo
 
-[![Open in Streamlit](https://pdf-whisperer-fbbx9xxfod6s55ywtyaqnt.streamlit.app/)
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf-whisperer-fbbx9xxfod6s55ywtyaqnt.streamlit.app/)
+
 
 ---
 
